@@ -1,6 +1,6 @@
 # ~ Development of Automated Incident Response Playbook with SOAR and EDR Integration
 
-This project involves designing and implementing an automated incident response playbook utilizing LimaCharlie for advanced detection and response capabilities. The system integrates seamlessly with Slack, email, and Tines to enable robust Security Orchestration, Automation, and Response (SOAR) functionalities. The playbook features user-driven decision-making workflows, facilitating prompt isolation of compromised machines based on real-time security event analysis.
+* This project involves designing and implementing an automated incident response playbook utilizing LimaCharlie for advanced detection and response capabilities. The system integrates seamlessly with Slack, email, and Tines to enable robust Security Orchestration, Automation, and Response (SOAR) functionalities. The playbook features user-driven decision-making workflows, facilitating prompt isolation of compromised machines based on real-time security event analysis.
 
 # ~ Step-1: Developed a Logic Diagram using the Draw.io application.
 Playbook Workflow.
